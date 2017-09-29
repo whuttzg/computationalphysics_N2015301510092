@@ -1,3 +1,4 @@
+```
 from scipy.integrate import odeint 
 import numpy as N
 import matplotlib.pyplot as plt
@@ -13,3 +14,5 @@ plt.xlabel('time')#定义x轴为时间
 plt.title('velocity')#定义y轴为速度
 plt.ylim([0,15]) #选择y轴的显示范围
 plt.show #绘制成图
+```
+结果：![image]
