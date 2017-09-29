@@ -15,4 +15,4 @@ plt.title('velocity')#定义y轴为速度
 plt.ylim([0,15]) #选择y轴的显示范围
 plt.show #绘制成图
 ```
-结果：![image]
+结果：![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/exercise3.png)
