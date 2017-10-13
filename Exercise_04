@@ -37,3 +37,44 @@ class cannon:
 a = cannon()
 a.run()
 a.show_results()
+现在考虑高度，当高度为-100和100时
+import pylab as pl
+import math 
+class cannon:
+    def __init__(self,init_v=100,B_m=0.00004,theta = 35,
+                 init_x=0,init_y=0,time_step=0.1,wind_velocity=10,
+                 a_0=0.0065, alpha_0=2.5, temp_0=298.0,height=-100):    
+        self.vx = [init_v*math.cos(theta*2*math.pi/360)]
+        self.vy = [init_v*math.sin(theta*2*math.pi/360)]
+        self.x = [init_x]
+        self.y = [init_y]
+        self.t = [0]
+        self.B_m = B_m
+        self.a =a_0
+        self.alpha=alpha_0
+        self.temp=temp_0
+        self.win = wind_velocity
+        self.height=height
+        self.dt = time_step        
+    def run(self):
+        while self.y[-1]>=self.height:
+            self.x.append(self.x[-1] + self.dt * self.vx[-1])
+            self.y.append(self.y[-1] + self.dt * self.vy[-1])
+            rho = (1- self.a *self.y[-1]/  self.temp ) ** self.alpha
+            f=math.sqrt((self.vx[-1]-self.win)**2+self.vy[-1]**2) * self.B_m * rho
+            self.vx.append(self.vx[-1] - self.dt * f *(self.vx[-1]-self.win))
+            self.vy.append(self.vy[-1] - self.dt * (9.8 + f *self.vy[-1]))
+    def show_results(self):
+        pl.plot(self.x, self.y,color="blue",
+                linestyle="-", label="35")
+        pl.xlabel('x(m)')
+        pl.ylabel('y(m)')
+        pl.legend(loc='upper right')
+        pl.ylim(-100)
+        pl.show()
+a = cannon()
+a.run()
+a.show_results()
+从图中，我们很容易看出，当高度为-100时，能到达的最大角度为40，稍小45度。当高度为100时，最大角度为50，稍大于45度。
+感谢龚永辉同学的帮助
+图片好像出了点问题，无法上传到网站，之后会补上图片的链接
