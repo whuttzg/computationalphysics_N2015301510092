@@ -58,3 +58,5 @@ def plot():
     pl.legend()
     pl.show()
 plot() 
+!【image】（https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_05.png）
+由此可见，球的自旋对落点有一定的影响，使其轨迹有更大的不确定性
