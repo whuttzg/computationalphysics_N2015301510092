@@ -43,4 +43,4 @@ for i in range(150):
     a=bifurcation_diagram(FD=1.34+i/1000.0)
     a.calculate()
     a.show_results()
-    
+ ![image](   
