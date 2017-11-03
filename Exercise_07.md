@@ -45,3 +45,4 @@ for i in range(150):
     a.show_results()
  ![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise07.png)
  由此得到对应关系图
+ 感谢麻家兴同学的帮助！
