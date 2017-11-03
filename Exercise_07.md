@@ -43,4 +43,5 @@ for i in range(150):
     a=bifurcation_diagram(FD=1.34+i/1000.0)
     a.calculate()
     a.show_results()
- ![image](   
+ ![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise07.png)
+ 由此得到对应关系图
