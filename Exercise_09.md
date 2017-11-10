@@ -56,3 +56,6 @@ a.run()
 a.drawcircle()
 a.showresult()
 1.圆形内边界在中心
+![image]
+![image]
+![image]
