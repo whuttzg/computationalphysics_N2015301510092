@@ -56,8 +56,9 @@ a.run()
 a.drawcircle()
 a.showresult()
 1.圆形内边界在中心
-![image]（https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_01.png）
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_01.png)
 相空间图：
-![image]（https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_02%20.png）
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_02%20.png)
 2.圆形内边界偏离中心
-![image]（https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_03.png）
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_03.png)
+感谢麻家兴同学的帮助
