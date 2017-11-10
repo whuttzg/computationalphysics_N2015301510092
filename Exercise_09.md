@@ -56,6 +56,7 @@ a.run()
 a.drawcircle()
 a.showresult()
 1.圆形内边界在中心
-![image]
+![image]（https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise09_01.png）
+相空间图：
 ![image]
 ![image]
