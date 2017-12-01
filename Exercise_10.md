@@ -64,4 +64,8 @@ matplotlib.pyplot.ylim(-2,15)
 木星为真实质量的十倍时：
 ![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2002.png)
 木星为真实质量的100倍时：
-！[image}(https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2003.png)
+！[image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2003.png)
+木星为其质量1000倍时：
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2004.png)
+由此可见，当木星质量越大，地球轨道扰动越大
+在此感觉麻家兴同学的帮助！
