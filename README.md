@@ -8,3 +8,4 @@ Exercise_05:https://github.com/whuttzg/computationalphysics_N2015301510092/blob/
 Exercise_06:https://github.com/whuttzg/computationalphysics_N2015301510092/edit/master/Exercise_06.md
 Exercise_07:https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_07.md
 Exercise_09:https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_09.md
+Exercise_10:https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10.md
