@@ -59,3 +59,5 @@ matplotlib.pyplot.ylabel('y(AU)')
 matplotlib.pyplot.title('ms=1mj')
 matplotlib.pyplot.xlim(-5,5) 
 matplotlib.pyplot.ylim(-2,15)
+木星为其真实质量时：
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2001.png)
