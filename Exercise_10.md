@@ -61,3 +61,7 @@ matplotlib.pyplot.xlim(-5,5) 
 matplotlib.pyplot.ylim(-2,15)
 木星为其真实质量时：
 ![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2001.png)
+木星为真实质量的十倍时：
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_10%2002.png)
+木星为真实质量的100倍时：
+！[image}()
