@@ -117,3 +117,5 @@ cmp.update_V_SOR()
 cmp.plot_3d(ax2,-1.,1.,-1.,1.)
 fig.colorbar(cmp.surf, shrink=0.5, aspect=5)
 plt.show(fig)
+结果如下
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_11%2001.png)
