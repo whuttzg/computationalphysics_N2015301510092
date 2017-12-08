@@ -119,3 +119,6 @@ fig.colorbar(cmp.surf, shrink=0.5, aspect=5)
 plt.show(fig)
 结果如下
 ![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_11%2001.png)
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_11%2002.png)
+由此可见，平行板的电场具有一定的对称性。平行板电容在两板之间相当大区域内确实有十分均匀的电场，平行板外的电场则小一些。这些都符合平行板电容的电场特征。
+在此感谢麻家兴同学的帮助！
