@@ -44,5 +44,5 @@ def animate(i):
 anim = animation.FuncAnimation(fig, animate, init_func=initAnimation, interval=20, blit=True)
 pyplot.show()
 结果如下：
-![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_12.md)
+![image](https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_12.gif)
 由此可见，两个高斯波包相遇后，虽然会叠加，但是仍会按照原来的方向传播。
