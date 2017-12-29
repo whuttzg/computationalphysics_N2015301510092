@@ -13,3 +13,4 @@ Exercise_11:https://github.com/whuttzg/computationalphysics_N2015301510092/blob/
 Exercise_12:https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/Exercise_12.md
 期中作业：https://github.com/whuttzg/computationalphysics_N2015301510092/blob/master/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A.zip 
 （很抱歉延迟了这么久才交）
+期末作业：http://note.youdao.com/noteshare?id=70c4be6afee66541007a492ba5d10564
